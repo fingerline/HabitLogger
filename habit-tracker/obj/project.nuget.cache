@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "1c60DymzHoP+SCUfZX3x4gUqWKZLcyG9pPrgfpAoMbHnYnKF8S5r70vVxh9NDOZqPy6lRtMIKWlC6i7/EBwYgQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\trent\\Documents\\CSharpProjects\\CsharpProjects\\CSharpAcademyProjects\\HabitLogger\\habit-tracker\\habit-tracker.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\trent\\.nuget\\packages\\microsoft.data.sqlite\\8.0.2\\microsoft.data.sqlite.8.0.2.nupkg.sha512",
+    "C:\\Users\\trent\\.nuget\\packages\\microsoft.data.sqlite.core\\8.0.2\\microsoft.data.sqlite.core.8.0.2.nupkg.sha512",
+    "C:\\Users\\trent\\.nuget\\packages\\sqlitepclraw.bundle_e_sqlite3\\2.1.6\\sqlitepclraw.bundle_e_sqlite3.2.1.6.nupkg.sha512",
+    "C:\\Users\\trent\\.nuget\\packages\\sqlitepclraw.core\\2.1.6\\sqlitepclraw.core.2.1.6.nupkg.sha512",
+    "C:\\Users\\trent\\.nuget\\packages\\sqlitepclraw.lib.e_sqlite3\\2.1.6\\sqlitepclraw.lib.e_sqlite3.2.1.6.nupkg.sha512",
+    "C:\\Users\\trent\\.nuget\\packages\\sqlitepclraw.provider.e_sqlite3\\2.1.6\\sqlitepclraw.provider.e_sqlite3.2.1.6.nupkg.sha512",
+    "C:\\Users\\trent\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512"
+  ],
+  "logs": []
+}
